@@ -1,10 +1,20 @@
-[
-  {
-    "id": 1794516107576,
-    "title": "হাই",
-    "url": "https://cdn.jsdelivr.net/gh/jubayerislam6766-png/cloud-vault-01@main/files/file_1794516103467.jpg",
-    "vault": "cloud-vault-01",
-    "type": "image/jpeg",
-    "date": "১৩/১১/২০২৬"
-  }
-]
+{
+  "folders": [
+    {
+      "id": "f_1794516784698",
+      "name": "হাই",
+      "parentId": null,
+      "date": "১৩/১১/২০২৬"
+    }
+  ],
+  "files": [
+    {
+      "id": 1794516107576,
+      "title": "হাই",
+      "url": "https://cdn.jsdelivr.net/gh/jubayerislam6766-png/cloud-vault-01@main/files/file_1794516103467.jpg",
+      "vault": "cloud-vault-01",
+      "type": "image/jpeg",
+      "date": "১৩/১১/২০২৬"
+    }
+  ]
+}
