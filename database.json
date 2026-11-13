@@ -48,7 +48,8 @@
       "title": "OWNER JUBAYER ISLAM",
       "type": "image/png",
       "url": "https://cdn.jsdelivr.net/gh/jubayerislam6766-png/cloud-vault-01@main/files/file_1794525366784.png",
-      "vault": "cloud-vault-01"
+      "vault": "cloud-vault-01",
+      "pinned": true
     }
   ]
 }
